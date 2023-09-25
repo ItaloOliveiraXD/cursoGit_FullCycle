@@ -1,0 +1,7 @@
+Git flow
+Configurações dos nossos branches
+Pull requests / Templates para pull requests
+Code Review
+Plugin do vscode
+CODEOWNERS
+SemVer
